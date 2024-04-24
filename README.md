@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Respository
-- 📫 How to reach me discord: Srivero@0235
+- 📫 How to reach me discord: srivero
 
 <!---
 Srivero13/Srivero13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
