@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Srivero13
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👀 C++,C#,Python
 - 💞️ I’m looking to collaborate on Respository
 - 📫 How to reach me discord: srivero
 
