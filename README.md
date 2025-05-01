@@ -71,6 +71,11 @@ Let’s build something amazing together!
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/dFvP7rNMAz5gcN41it/giphy.gif" width="250" alt="Nino Nakano GIF" />
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250" alt="Nino Nakano GIF" />
 </p>
+
+<p align="center">
+  <img src="https://goodsrepublic.com/images/items/5496598/standard/5496598.jpg" width="180" alt="Asahi Amagami Sticker" />
+</p>
+
 <p align="center"><i>Powered by code and waifus 🖤</i></p>
