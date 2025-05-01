@@ -1,24 +1,76 @@
-# Santiago Rivero (Srivero) 👨‍💻
+# Hi there, I'm **Santiago Rivero** (aka **Srivero**) 👨‍💻
 
-Greetings! I'm **Santiago Rivero**, a student from the **Bolivian Catholic University** passionate about coding, anime, and gaming. I specialize in various programming languages and enjoy tackling new challenges and projects. Currently open to collaborations!
+🎓 Student @ **Bolivian Catholic University**  
+💻 Passionate about **coding**, **anime**, and **gaming**  
+🤝 Open to **collaborations** and exciting projects!
 
----
-
-## 🛠️ Skills & Expertise
-- **Languages**: C++, C#, JavaScript, Python, SQL
-- **Interests**: Coding, Anime, Gaming
-
----
-
-## 📬 Contact & Social
-- [Follow me on X (formerly Twitter)](https://x.com/Srivero1234)
+[![X (Twitter)](https://img.shields.io/badge/X-%40Srivero1234-1DA1F2?style=flat&logo=twitter)](https://x.com/Srivero1234)  
+![Profile Views](https://komarev.com/ghpvc/?username=Srivero13&label=Profile%20Views&color=blueviolet&style=flat)
 
 ---
 
-## 🚀 Current Status
-- Always exploring new technologies and projects. Open to collaborations!
+## 🧠 About Me
+
+- 🔍 Exploring the world of software development and tech innovation  
+- ✨ Interested in game design, full-stack development & automation  
+- 🌙 Proud **dark mode** enthusiast
 
 ---
 
-## 🖤 Aesthetic
-Dark mode enthusiast.
+## 🛠️ Tech Stack & Skills
+
+**Languages:**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
+
+**Tools & Technologies:**  
+VS Code, Git, GitHub, Unity, Node.js, APIs
+
+**Soft Skills:**  
+Problem-solving, teamwork, adaptability
+
+---
+
+## 🚀 Current Projects & Goals
+
+- 💡 Learning React and working on personal full-stack projects  
+- 🎮 Developing a simple RPG game for fun  
+- 📘 Documenting my learning journey on GitHub
+
+---
+
+## 📬 Connect with Me
+
+📨 [Follow me on X (Twitter)](https://x.com/Srivero1234)  
+💬 Always happy to connect and collaborate!
+
+---
+
+## 📊 GitHub Stats
+
+![Srivero13's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srivero13&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srivero13&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Srivero13&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Srivero13&theme=radical&margin-w=10&row=1)
+
+---
+
+## ❤️ Support My Work
+
+If you like what I do, consider **starring** some of my repositories.  
+Let’s build something amazing together!
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/dFvP7rNMAz5gcN41it/giphy.gif" width="250" alt="Nino Nakano GIF" />
+</p>
+<p align="center"><i>Powered by code and waifus 🖤</i></p>
