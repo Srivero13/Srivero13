@@ -73,7 +73,7 @@ Let’s build something amazing together!
 
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVrcGw3NXE3NnpvaWhvZXAyaTB6N3E0N2duZzN2MXhjcWF0OWN4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GaePqH1aHE95KI0Vt7/giphy.gif)" width="250" alt="Nino Nakano GIF" />
+  ![Giphy GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVrcGw3NXE3NnpvaWhvZXAyaTB6N3E0N2duZzN2MXhjcWF0OWN4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GaePqH1aHE95KI0Vt7/giphy.gif)
 </p
 
 <p align="center"><i>Powered by code and waifus 🖤</i></p>
