@@ -1,5 +1,7 @@
 # Hi there, I'm **Santiago Rivero** (aka **Srivero**) 👨‍💻
 
+<img src="https://i.pinimg.com/736x/58/21/09/582109c298ac3112130702779adc7f3b.jpg" width="140" align="right" alt="Asahi Amagami" style="border-radius: 10px;"/>
+
 🎓 Student @ **Bolivian Catholic University**  
 💻 Passionate about **coding**, **anime**, and **gaming**  
 🤝 Open to **collaborations** and exciting projects!
@@ -71,11 +73,7 @@ Let’s build something amazing together!
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/B2uJzWZ6eqIAAAAC/nino-gotoubun.gif" width="250" alt="Nino Nakano GIF" />
-</p>
-
-<p align="center">
-  <img src="https://i.pinimg.com/736x/58/21/09/582109c298ac3112130702779adc7f3b.jpg" width="180" alt="Asahi Amagami Sticker" />
+  <img src="https://media.giphy.com/media/iZ6fU6n1JTkcoDgYF1/giphy.gif" width="250" alt="Nino Nakano GIF" />
 </p>
 
 <p align="center"><i>Powered by code and waifus 🖤</i></p>
