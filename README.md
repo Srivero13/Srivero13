@@ -1,9 +1,24 @@
-- 👋 Hi, I’m @Srivero13
-- 👀 C++,C#,Python
-- 💞️ I’m looking to collaborate on Respository
-- 📫 How to reach me discord: srivero
+# Santiago Rivero (Srivero) 👨‍💻
 
-<!---
-Srivero13/Srivero13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Greetings! I'm **Santiago Rivero**, a student from the **Bolivian Catholic University** passionate about coding, anime, and gaming. I specialize in various programming languages and enjoy tackling new challenges and projects. Currently open to collaborations!
+
+---
+
+## 🛠️ Skills & Expertise
+- **Languages**: C++, C#, JavaScript, Python, SQL
+- **Interests**: Coding, Anime, Gaming
+
+---
+
+## 📬 Contact & Social
+- [Follow me on X (formerly Twitter)](https://x.com/Srivero1234)
+
+---
+
+## 🚀 Current Status
+- Always exploring new technologies and projects. Open to collaborations!
+
+---
+
+## 🖤 Aesthetic
+Dark mode enthusiast.
