@@ -70,10 +70,10 @@ Problem-solving, teamwork, adaptability
 If you like what I do, consider **starring** some of my repositories.  
 Let’s build something amazing together!
 
----
+
 
 <p align="center">
-  <img src="https://media.giphy.com/media/iZ6fU6n1JTkcoDgYF1/giphy.gif" width="250" alt="Nino Nakano GIF" />
+  ---![nino-nakano](https://github.com/user-attachments/assets/f4dfdb47-d792-4ef5-b125-caf44fd198df)
 </p>
 
 <p align="center"><i>Powered by code and waifus 🖤</i></p>
