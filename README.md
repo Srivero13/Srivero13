@@ -38,8 +38,7 @@ Problem-solving, teamwork, adaptability
 
 ## 🚀 Current Projects & Goals
 
-- 💡 Learning React and working on personal full-stack projects  
-- 🎮 Developing a simple RPG game for fun  
+- 💡 Learning React and working on personal full-stack projects   
 - 📘 Documenting my learning journey on GitHub
 
 ---
